@@ -1,0 +1,20 @@
+.al-image-result {
+    width: auto;
+    list-style-type: disc;
+}
+
+.al-image-result:last-child{
+display: none;
+}
+
+.lc-last-tip {
+    font-weight: bolder;
+
+
+}
+.ld_card{
+height: 100px !important;
+}
+.ld_result{
+    height: 100vh;
+}
